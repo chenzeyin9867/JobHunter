@@ -6,7 +6,7 @@
 int main()
 {
 	using namespace std;
-	string testdataname = "../../training-data/training-1.txt";
+	string testdataname = "../../../training-1.txt";
 	ifstream infile(testdataname, ios::in);
 
     assert(infile.is_open());   //若失败,则输出错误消息,并终止程序运行
@@ -14,8 +14,22 @@ int main()
 	unsigned long long cpu_req = 0, mem_req = 0;
 	string s;
 	int cnt = 0;
+	int serverNum = 0;
 	while (getline(infile, s))
 	{
+	    if (cnt == 0){ // cin the number of the server
+	        serverNum = stoi(s);
+	        for (int i = 0 ; i < serverNum; i++){
+	            getline(infile, s);
+	            int id_h = 1; //"("
+	            int id_tail = s.find(',');
+	            string id = s.substr(id_h, id_tail - id_h); // id of the server
+
+	        }
+	    }
+
+
+
 		if(s[0]!='('){
 			cnt++;
 			if (cnt % 10 == 0)

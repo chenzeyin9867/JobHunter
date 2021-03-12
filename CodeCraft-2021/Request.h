@@ -15,6 +15,8 @@ class AddRequest : public Request
 
 class DelRequest : public Request
 {
+public:
+    DelRequest();
 };
 
 #endif
