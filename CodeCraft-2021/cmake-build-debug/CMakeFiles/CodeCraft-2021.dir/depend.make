@@ -6,6 +6,7 @@ CMakeFiles/CodeCraft-2021.dir/Dispatch.cpp.o: ../Dispatch.h
 
 CMakeFiles/CodeCraft-2021.dir/Request.cpp.o: ../Request.cpp
 CMakeFiles/CodeCraft-2021.dir/Request.cpp.o: ../Request.h
+CMakeFiles/CodeCraft-2021.dir/Request.cpp.o: ../VirtualMachine.h
 
 CMakeFiles/CodeCraft-2021.dir/Scheduler.cpp.o: ../Scheduler.cpp
 CMakeFiles/CodeCraft-2021.dir/Scheduler.cpp.o: ../Scheduler.h
@@ -16,5 +17,8 @@ CMakeFiles/CodeCraft-2021.dir/Server.cpp.o: ../Server.h
 CMakeFiles/CodeCraft-2021.dir/VirtualMachine.cpp.o: ../VirtualMachine.cpp
 CMakeFiles/CodeCraft-2021.dir/VirtualMachine.cpp.o: ../VirtualMachine.h
 
+CMakeFiles/CodeCraft-2021.dir/main.cpp.o: ../Request.h
+CMakeFiles/CodeCraft-2021.dir/main.cpp.o: ../Server.h
+CMakeFiles/CodeCraft-2021.dir/main.cpp.o: ../VirtualMachine.h
 CMakeFiles/CodeCraft-2021.dir/main.cpp.o: ../main.cpp
 

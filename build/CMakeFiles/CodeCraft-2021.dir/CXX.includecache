@@ -6,17 +6,41 @@
 
 #IncludeRegexTransform: 
 
+/home/czy/MyWorkSpace/huawei/JobHunter/CodeCraft-2021/Dispatch.cpp
+Dispatch.h
+/home/czy/MyWorkSpace/huawei/JobHunter/CodeCraft-2021/Dispatch.h
+
+/home/czy/MyWorkSpace/huawei/JobHunter/CodeCraft-2021/Dispatch.h
+
+/home/czy/MyWorkSpace/huawei/JobHunter/CodeCraft-2021/Request.cpp
+Request.h
+/home/czy/MyWorkSpace/huawei/JobHunter/CodeCraft-2021/Request.h
+
 /home/czy/MyWorkSpace/huawei/JobHunter/CodeCraft-2021/Request.h
 string
 -
 VirtualMachine.h
 /home/czy/MyWorkSpace/huawei/JobHunter/CodeCraft-2021/VirtualMachine.h
 
+/home/czy/MyWorkSpace/huawei/JobHunter/CodeCraft-2021/Scheduler.cpp
+Scheduler.h
+/home/czy/MyWorkSpace/huawei/JobHunter/CodeCraft-2021/Scheduler.h
+
+/home/czy/MyWorkSpace/huawei/JobHunter/CodeCraft-2021/Scheduler.h
+
+/home/czy/MyWorkSpace/huawei/JobHunter/CodeCraft-2021/Server.cpp
+Server.h
+/home/czy/MyWorkSpace/huawei/JobHunter/CodeCraft-2021/Server.h
+
 /home/czy/MyWorkSpace/huawei/JobHunter/CodeCraft-2021/Server.h
 iostream
 -
 string
 -
+
+/home/czy/MyWorkSpace/huawei/JobHunter/CodeCraft-2021/VirtualMachine.cpp
+VirtualMachine.h
+/home/czy/MyWorkSpace/huawei/JobHunter/CodeCraft-2021/VirtualMachine.h
 
 /home/czy/MyWorkSpace/huawei/JobHunter/CodeCraft-2021/VirtualMachine.h
 iostream
